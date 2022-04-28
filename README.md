@@ -49,8 +49,12 @@
     <li>CSS3</li>
     <li>JavaScript</li>
     <li>Tests</li>
-    <li>React</li>
+    <li>React.js</li>
     <li>Redux</li>
     <li>SQL</li>
+    <li>MongoDB</li>
+    <li>Node.js</li>
+    <li>Heruco</li>
+    <li>Python</li>
   </ul>
 </p>
