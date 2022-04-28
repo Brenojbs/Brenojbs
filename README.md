@@ -54,7 +54,7 @@
     <li>SQL</li>
     <li>MongoDB</li>
     <li>Node.js</li>
-    <li>Heruco</li>
+    <li>Heroku</li>
     <li>Python</li>
   </ul>
 </p>
