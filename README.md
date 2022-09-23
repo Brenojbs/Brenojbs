@@ -12,26 +12,52 @@
 ## About me
 
 <h1>Desenvolvimento</h1>
-<p align="left"> Seja bem vindo. Aqui eu falo um pouco sobre minhas experiencias e meus planos. <br>
+<p align="left"> Seja bem vindo. Aqui eu falo um pouco sobre minhas experiencias. <br>
   
   Atualmente moro no Rio de Janeiro Zona Oeste.<br>
   <br>
   Estudante de desenvolvimento de Software na escola Trybe!<br>
   Aprendendo cada vez mais sobre Soft-Skills e programação.
 
+<p>
+
 <h2>Soft Skills</h2>
 
-<p>
   <ul>
+    <li>Inteligência Emocional</li>
+    <li>Resiliência</li>
+    <li>Colaboração</li>
     <li>Comunicação</li>
     <li>Escuta Ativa</li>
-    <li>Colaboração</li>
-    <li>Resiliência</li>
+    <li>Aprender a Aprender</li>
     <li>Pensamento Critico</li>
-    <li>Inteligência Emocional</li>
+    <li>Criatividade</li>
+    <li>Liderança</li>
   </ul>
-</p>
 
+<br>
+
+<h2>Hard Skills</h2>
+
+  <p>
+    <ul>
+      <li>HTML5</li>
+      <li>CSS3</li>
+      <li>JavaScript</li>
+      <li>Tests</li>
+      <li>React.js</li>
+      <li>Redux</li>
+      <li>MySql</li>
+      <li>MongoDB</li>
+      <li>Node.js</li>
+      <li>Heroku</li>
+      <li>Python</li>
+      <li>SCRUM</li>
+      <li>KANBAN</li>
+      <li>JAVA (aprendendo)</li>
+    </ul>
+  </p>
+</p>
 
 </p>
 <h2>Experiência</h2>
@@ -42,19 +68,3 @@
 <li>Vigdel: Segurança, atenção, respeito e comunicação entre colegas de trabalho.</li>
 <li>Ajudante de Pedreiro: Meritocracia.</li>
 </ul>
-<h2>Hard Skills</h2>
-<p>
-  <ul>
-    <li>HTML5</li>
-    <li>CSS3</li>
-    <li>JavaScript</li>
-    <li>Tests</li>
-    <li>React.js</li>
-    <li>Redux</li>
-    <li>SQL</li>
-    <li>MongoDB</li>
-    <li>Node.js</li>
-    <li>Heroku</li>
-    <li>Python</li>
-  </ul>
-</p>
