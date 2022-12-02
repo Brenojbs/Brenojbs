@@ -54,7 +54,7 @@
       <li>Python</li>
       <li>SCRUM</li>
       <li>KANBAN</li>
-      <li>JAVA (aprendendo)</li>
+      <li>JAVA</li>
     </ul>
   </p>
 </p>
