@@ -1,5 +1,5 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=4" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=5" />
 </a>
 <a href="https://github.com/Brenojbs/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=Brenojbs&show_icons=true" />
@@ -54,7 +54,7 @@
       <li>Python</li>
       <li>SCRUM</li>
       <li>KANBAN</li>
-      <li>JAVA</li>
+      <li>JAVA (Spring)</li>
     </ul>
   </p>
 </p>
@@ -62,9 +62,5 @@
 </p>
 <h2>Experiência</h2>
 <ul>
-        <li><p>1.No mundo do Desenvolvimento ainda não tenho!</p></li>
-
-<li>Pão de Açucar: 2 anos e 8 meses, Trabalho em equipe e metas.</li>
-<li>Vigdel: Segurança, atenção, respeito e comunicação entre colegas de trabalho.</li>
-<li>Ajudante de Pedreiro: Meritocracia.</li>
+        <li><p>1.Desenvolvedor Java Trainee, na Zallpy: 17/01/2023 - Atualmente</p></li>
 </ul>
