@@ -13,8 +13,10 @@
   
   Atualmente moro no Rio de Janeiro Zona Oeste.<br>
   <br>
-  Estudante de desenvolvimento de Software na escola Trybe!<br>
-  Aprendendo cada vez mais sobre Soft-Skills e programação.
+  Estudei desenvolvimento de Software na escola Trybe!<br>
+  Aprendi muitosobre sobre Soft-Skills e Hard-Skills.
+
+  Hoje trabalho na Zallpy Digital como Desenvolvedor Java Trainee e aprendo muito com a mão na massa. Meus colegas e minha    liderança me dão Feedbacks construtivos e me ajudam a saber onde melhorar.
 
 <p>
 
