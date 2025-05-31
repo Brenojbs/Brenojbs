@@ -1,65 +1,36 @@
-<div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Brenojbs&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Brenojbs github stats" /> 
-  <img width="41%" height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brenojbs&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117"/>
-</div>
+<table>
+  <tr>
+    <td>
+      <img width="400px" src="https://github-readme-stats.vercel.app/api?username=Brenojbs&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Brenojbs github stats" />
+    </td>
+    <td>
+      <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brenojbs&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117"/>
+    </td>
+  </tr>
+</table>
+<br><br><br>
 
-<img align="right" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1617470191191.png" width="380px" heigth="380px">
-
-# Brenojbs
+# Brenojbs 
 ## About me
 
-<h1>Desenvolvimento</h1>
-<p align="left"> Seja bem vindo. Aqui eu falo um pouco sobre minhas experiencias. <br>
+<p align="left">
+Descobri minha paixão por Desenvolvimento de Software durante um processo de transição de carreira — e desde então, tenho me dedicado com foco, curiosidade e propósito.
   
-  Atualmente moro no Rio de Janeiro Zona Oeste.<br>
-  <br>
-  Estudei desenvolvimento de Software na escola Trybe!<br>
-  Aprendi muitosobre sobre Soft-Skills e Hard-Skills.
-
-  Hoje trabalho na Zallpy Digital como Desenvolvedor Java Trainee e aprendo muito com a mão na massa. Meus colegas e minha    liderança me dão Feedbacks construtivos e me ajudam a saber onde melhorar.
-
-<p>
-
-<h2>Soft Skills</h2>
-
-  <ul>
-    <li>Inteligência Emocional</li>
-    <li>Resiliência</li>
-    <li>Colaboração</li>
-    <li>Comunicação</li>
-    <li>Escuta Ativa</li>
-    <li>Aprender a Aprender</li>
-    <li>Pensamento Critico</li>
-    <li>Criatividade</li>
-    <li>Liderança</li>
-  </ul>
-
+Hoje atuo como Desenvolvedor Full Stack, com mais de 3 anos de experiência utilizando tecnologias como Java, Angular, ColdFusion e Spring Boot. No dia a dia, soluciono problemas técnicos que geram impacto direto na experiência do usuário, utilizando metodologias ágeis como Scrum e Kanban, além de ferramentas como Azure e Microsoft Teams para colaboração com o time.
+  
+Durante minha atuação, já contribuí para aumentos mensuráveis, como o crescimento de 30% no índice de feedbacks positivos de usuários e a redução de até 70% no tempo de execução de sistemas. Além disso, desenvolvi um sistema de rotas com mais de 2 milhões de requisições, escalável para 100% da base de dados.
+  
+Busco constantemente melhorar como profissional e como pessoa. Tenho como principais soft skills: pensamento crítico, inteligência emocional, comunicação clara, resiliência e vontade contínua de aprender.
+  
+💻 Tecnologias:  
+Java, Angular, Spring Boot, React, Node.js, ColdFusion, MongoDB, PostgreSQL, RabbitMQ, Kafka, Docker, Git, JUnit, Jenkins.  
+🔁 Metodologias: Scrum, Kanban  
+🌐 Ferramentas: Azure, Teams, GitHub, CVS
+</p>
 <br>
 
-<h2>Hard Skills</h2>
-
-  <p>
-    <ul>
-      <li>HTML5</li>
-      <li>CSS3</li>
-      <li>JavaScript</li>
-      <li>Tests</li>
-      <li>React.js</li>
-      <li>Redux</li>
-      <li>MySql</li>
-      <li>MongoDB</li>
-      <li>Node.js</li>
-      <li>Heroku</li>
-      <li>Python</li>
-      <li>SCRUM</li>
-      <li>KANBAN</li>
-      <li>JAVA (Spring)</li>
-    </ul>
-  </p>
-</p>
-
-</p>
 <h2>Experiência</h2>
 <ul>
-        <li><p>1.Desenvolvedor Java Trainee, na Zallpy: 17/01/2023 - Atualmente</p></li>
+        <li><p>1.Desenvolvedor Java Trainee, na Zallpy: 17/01/2023 - 01/04/2023</p></li>
+        <li><p>2.Desenvolvedor Java Junior, na Zallpy: 01/04/2023 - 01/04/2025</p></li>
 </ul>
